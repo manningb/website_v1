@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: grahamsmockup.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: October 20204
+client: Graham Shoes Kilkenny
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Graham Shoes is a family-run, traditional shoe shop in Kilkenny. Their website features a landing page along with a booking system.
 ---
