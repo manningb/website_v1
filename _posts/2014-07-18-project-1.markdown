@@ -5,7 +5,7 @@ title: Graham Shoes
 date: 2014-07-18
 img: grahamsmockup.png
 alt: image-alt
-project-date: October 20204
+project-date: October 2020
 client: Graham Shoes Kilkenny
 category: Web Development
 description: Graham Shoes is a family-run, traditional shoe shop in Kilkenny. Their website features a landing page along with a booking system.
