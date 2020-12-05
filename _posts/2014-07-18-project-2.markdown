@@ -1,10 +1,10 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2014-07-18
 img: kkmpmockup.png
 alt: image-alt
-project-date: August 20204
+project-date: August 2020
 #client: Business
 category: Web Development
 description: Kilkenny Marketplace is an online ecommerce marketplace for local businesses in Kilkenny. 
