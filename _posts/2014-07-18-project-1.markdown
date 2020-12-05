@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 2
+title: Graham Shoes
 date: 2014-07-18
 img: grahamsmockup.png
 alt: image-alt
